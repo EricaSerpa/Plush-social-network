@@ -36,9 +36,9 @@ A página inicial, foi criada para que fique as publicações dos usuários já 
 
 <h3 align="center">
    <img alt="image login" title=""
-        src="https://ik.imagekit.io/q8vyo7feaitz/signinb.png?updatedAt=1631055336230&tr=w-365,h-627,fo-custom,cm-extract" width="400px">
+        src="https://ik.imagekit.io/q8vyo7feaitz/signinb.png?updatedAt=1631055336230&tr=w-365,h-627,fo-custom,cm-extract" width="250px">
    <img alt="image sign up" title=""
-        src="https://ik.imagekit.io/q8vyo7feaitz/signupb.png?updatedAt=1631055401591&tr=w-365,h-627,fo-custom,cm-extract" width="400px">
+        src="https://ik.imagekit.io/q8vyo7feaitz/signupb.png?updatedAt=1631055401591&tr=w-365,h-627,fo-custom,cm-extract" width="250px">
 </h3>
 
 #### As paletas de cores foi escolhida seguindo a primeira pesquisa de que realizamos:
@@ -52,9 +52,9 @@ A página inicial, foi criada para que fique as publicações dos usuários já 
 
 <h3 align="center">
    <img alt="image login" title="" 
-        src="https://ik.imagekit.io/q8vyo7feaitz/signin_AtSKMj7jV.png?updatedAt=1631054986207" width="400px">
+        src="https://ik.imagekit.io/q8vyo7feaitz/signin_AtSKMj7jV.png?updatedAt=1631054986207" width="250px">
    <img alt="image sign up" title=""
-        src="https://ik.imagekit.io/q8vyo7feaitz/signup_K8WBrkd0mO.png?updatedAt=1631054986057" width="400px">
+        src="https://ik.imagekit.io/q8vyo7feaitz/signup_K8WBrkd0mO.png?updatedAt=1631054986057" width="250px">
 </h3>
 
 <a id="user-history"></a>
