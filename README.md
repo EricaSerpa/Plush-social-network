@@ -144,21 +144,6 @@ Boas práticas de programação
 
 <h3 align="center">
     Feito com 💛 por:
- <p></p>
- <p>
-  <a href="https://www.linkedin.com/in/ericaserpa/" target="_blank">Érica Serpa:</a> <a href="https://github.com/EricaSerpa" target="_blank">Github</a>
- </p>
- <p>
-  <a href="https://www.linkedin.com/in/gabriellymendes/" target="_blank">Gabrielly Mendes:</a> <a href="https://github.com/gabimendesh" target="_blank">Github</a>
-   <a href="" target="_blank"></a>
- </p>
- <p>
-  <a href="https://github.com/vanessa-cl" target="_blank">Vanessa Lima:</a> <a href="https://github.com/vanessa-cl" target="_blank">Github</a>
-    <a href="" target="_blank"></a>
- </p>
-</h3>
-
----
 
  <div align="center">
   <table>
