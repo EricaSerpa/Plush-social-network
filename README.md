@@ -144,6 +144,8 @@ Boas práticas de programação
 
 <h3 align="center">
     Feito com 💛 por:
+    
+    <br />
 
  <div align="center">
   <table>
