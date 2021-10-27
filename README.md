@@ -1,5 +1,5 @@
 <h3 align="center">
-    <img alt="Logo" title="#logo" src="https://ik.imagekit.io/q8vyo7feaitz/logo_0c3TubiGO.png?updatedAt=1631061741226&tr=w-1000,h-588,fo-custom,cm-extract" width="500px">
+    <img alt="Logo" title="#logo" src="https://ik.imagekit.io/q8vyo7feaitz/logo_0c3TubiGO.png?updatedAt=1631061741226&tr=w-1000,h-588,fo-custom,cm-extract" width="400px">
 </h3>
 
 ## Índice
@@ -36,25 +36,25 @@ A página inicial, foi criada para que fique as publicações dos usuários já 
 
 <h3 align="center">
    <img alt="image login" title=""
-        src="https://ik.imagekit.io/q8vyo7feaitz/signinb.png?updatedAt=1631055336230&tr=w-365,h-627,fo-custom,cm-extract">
+        src="https://ik.imagekit.io/q8vyo7feaitz/signinb.png?updatedAt=1631055336230&tr=w-365,h-627,fo-custom,cm-extract" width="400px">
    <img alt="image sign up" title=""
-        src="https://ik.imagekit.io/q8vyo7feaitz/signupb.png?updatedAt=1631055401591&tr=w-365,h-627,fo-custom,cm-extract">
+        src="https://ik.imagekit.io/q8vyo7feaitz/signupb.png?updatedAt=1631055401591&tr=w-365,h-627,fo-custom,cm-extract" width="400px">
 </h3>
 
 #### As paletas de cores foi escolhida seguindo a primeira pesquisa de que realizamos:
 
 <h3 align="center">
    <img alt="image login" title="" width="500px"
-        src="https://ik.imagekit.io/q8vyo7feaitz/color_1M-2hdt81.jpeg?updatedAt=1631055578194">
+        src="https://ik.imagekit.io/q8vyo7feaitz/color_1M-2hdt81.jpeg?updatedAt=1631055578194" width="400px">
 </h3>
 
 #### Protótipo de alta fidelidade:
 
 <h3 align="center">
    <img alt="image login" title="" 
-        src="https://ik.imagekit.io/q8vyo7feaitz/signin_AtSKMj7jV.png?updatedAt=1631054986207">
+        src="https://ik.imagekit.io/q8vyo7feaitz/signin_AtSKMj7jV.png?updatedAt=1631054986207" width="400px">
    <img alt="image sign up" title=""
-        src="https://ik.imagekit.io/q8vyo7feaitz/signup_K8WBrkd0mO.png?updatedAt=1631054986057">
+        src="https://ik.imagekit.io/q8vyo7feaitz/signup_K8WBrkd0mO.png?updatedAt=1631054986057" width="400px">
 </h3>
 
 <a id="user-history"></a>
@@ -83,7 +83,7 @@ Ao implementar as funcionalidades iniciais de login e cadastro na plataforma fiz
 
 <h3 align="center">
    <img alt="graph" title=""
-        src="https://ik.imagekit.io/vd8jwzhk56v/Teste_usabilidade_mzdvaWFAx.png?updatedAt=1631042711322">
+        src="https://ik.imagekit.io/vd8jwzhk56v/Teste_usabilidade_mzdvaWFAx.png?updatedAt=1631042711322" width="400px">
 </h3>
 
 ### Teste de Usabilidade 2
@@ -98,7 +98,7 @@ Ao implementar o feed de posts e estilizar toda a aplicação, realizamos mais u
 
 <h3 align="center">
    <img alt="graph"
-        src="https://ik.imagekit.io/vd8jwzhk56v/teste_de_usabilidade_CiLPlpEJf.png?updatedAt=1631042481495">
+        src="https://ik.imagekit.io/vd8jwzhk56v/teste_de_usabilidade_CiLPlpEJf.png?updatedAt=1631042481495" width="400px">
 </h3>
 
 
