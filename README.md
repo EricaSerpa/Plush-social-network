@@ -157,3 +157,63 @@ Boas práticas de programação
     <a href="" target="_blank"></a>
  </p>
 </h3>
+
+---
+
+ <div align="center">
+  <table>
+    <thead>
+      <tr>
+        <th align="center">Erica Serpa</th>
+        <th align="center">Gabrielly Mendes</th>
+        <th align="center">Vanessa Lima</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center">
+          <a href="#">
+            <img src="https://avatars.githubusercontent.com/u/83040250?v=4" width="100px;" alt="Foto da Erica Serpa no GitHub"/><br>
+          </a>
+        </td>
+        <td align="center">
+          <a href="#">
+            <img src="https://avatars.githubusercontent.com/u/65084909?v=4" width="100px;" alt="Foto da Gabrielly Mendes no GitHub"/><br>
+          </a>
+        </td>
+        <td align="center">
+          <a href="#">
+            <img src="https://avatars.githubusercontent.com/u/83243667?v=4" width="100px;" alt="Foto da Vanessa Lima no GitHub"/><br>
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td align="center">
+          <a href="https://github.com/EricaSerpa">
+            <img alt="GitHub - Erica Serpa" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" style="max-width: 100%;">
+          </a>
+          <a href="https://www.linkedin.com/in/ericaserpa/">
+            <img alt="LinkedIn - Erica Serpa" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+          </a>
+        </td>
+        <td align="center">
+          <a href="https://github.com/gabimendesh">
+            <img alt="GitHub - Gabrielly Mendes" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" style="max-width: 100%;">
+          </a>
+          <a href="https://www.linkedin.com/in/gabriellymendes/">
+            <img alt="LinkedIn - Gabrielly Mendes" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+          </a>
+        </td>
+          <td align="center">
+          <a href="https://github.com/vanessa-cl">
+            <img alt="GitHub - Vanessa Lima" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" style="max-width: 100%;">
+          </a>
+          <a href="https://www.linkedin.com/in/vanessa-lima20-/">
+            <img alt="LinkedIn - Vanessa Lima" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+          </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
